@@ -1,5 +1,3 @@
-"""Assignment 1 constants."""
-
 # indices into ticket string
 YR = 0      # year in format YYYY
 MON = 4     # month in format MM
